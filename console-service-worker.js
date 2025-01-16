@@ -1,1 +1,0 @@
-self.addEventListener("install",(c=>{c.waitUntil(caches.open("app-cache").then((c=>c.addAll(["/","/console"]))))})),self.addEventListener("fetch",(c=>{c.respondWith(caches.match(c.request).then((e=>e||fetch(c.request))))}));

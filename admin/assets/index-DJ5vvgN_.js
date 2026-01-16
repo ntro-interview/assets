@@ -1,1 +1,0 @@
-import{o as e}from"./index-DyqGiWP1.js";function r(t){return e({url:"tables",method:"post",data:t})}function u(t){return e({url:`tables/${t}`,method:"delete"})}function l(t){return e({url:"tables",method:"put",data:t})}function o(t){return e({url:"tables",method:"get",params:t})}export{r as c,u as d,o as g,l as u};

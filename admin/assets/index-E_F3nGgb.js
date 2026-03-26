@@ -1,1 +1,0 @@
-import{t as e}from"./index-CY1OtUR1.js";function s(t){return e({url:"/admin/stripe/submit_dispute_evidence",method:"post",data:t})}function r(t){return e({url:"/admin/stripe/get_dispute_list",method:"post",data:t})}function u(){return e({url:"/admin/stripe/get_original_dispute_list",method:"post",data:{}})}export{u as f,r as g,s};

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkinterview_copilot=globalThis.webpackChunkinterview_copilot||[]).push([[8488],{8488(e,r,c){c.d(r,{createArchitectureServices:()=>i.S});var i=c(89221);c(51400)}}]);

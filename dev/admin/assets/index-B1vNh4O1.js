@@ -1,1 +1,0 @@
-import{p as l}from"./index-CoEJifMC.js";function i(t){return l({url:"/admin/apply/get_autofill_list",method:"post",data:t})}function p(t){return l({url:"/admin/apply/get_fields_list",method:"post",data:t})}export{p as a,i as g};

@@ -1,0 +1,1 @@
+import{m as i}from"./index-DioVfEkf.js";function e(t){return i({url:"/admin/statistics/interview",method:"post",data:t})}function a(t){return i({url:"/admin/statistics/plan",method:"post",data:t})}export{a,e as g};
